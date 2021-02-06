@@ -10,5 +10,6 @@
 			"Thrift\\":"Thrift/",
 			"Gc\\Ext\\Thrift\\":"src/"
 		}
-	}
+	},
+	"version":"1.0"
 }
