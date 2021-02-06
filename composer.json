@@ -8,7 +8,7 @@
 	"autoload" : {
 		"psr-4" : {
 			"Thrift\\":"Thrift/",
-			"Gc\\Ext\\Thrift\\":"src/",
+			"Gc\\Ext\\Thrift\\":"src/"
 		}
 	}
 }
