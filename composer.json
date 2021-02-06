@@ -1,0 +1,14 @@
+{
+	"name":"tyz/thrift",
+	"type":"library",
+	"description":"client to use thrift",
+	"authors":[
+		{"name":"tyz", "email":"854024109@qq.com"}
+	],
+	"autoload" : {
+		"psr-4" : {
+			"Thrift\\":"Thrift/",
+			"Gc\\Ext\\Thrift\\":"src/",
+		}
+	}
+}
